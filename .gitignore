@@ -1,0 +1,7 @@
+# Gerados automaticamente pelo Python e pelo pytest
+__pycache__/
+.pytest_cache/
+
+# Dados pessoais (notas e faltas reais): ficam só no seu computador
+materias.json
+materias.json.bak
